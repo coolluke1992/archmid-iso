@@ -56,7 +56,6 @@ reflector
 accountsservice
 polkit-gnome
 gnome-keyring
-mate-accountsdialog
 
 ##theme
 gnome-icon-theme
